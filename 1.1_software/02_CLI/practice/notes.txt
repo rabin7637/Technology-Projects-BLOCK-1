@@ -1,1 +1,2 @@
-my notes
+This is my first Raspberry Pi CLI note!
+
