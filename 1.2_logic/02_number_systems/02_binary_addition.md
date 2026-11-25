@@ -1,11 +1,19 @@
-Adding Binary Numbers
+##Adding Binary Numbers
+
 1011 + 1101 = 11000
+
 100110 + 101011 = 1010001
+
 11101 + 10111 = 110100
 
-Subtracting Binary Numbers
+
+
+##Subtracting Binary Numbers
+
 1101 - 1010 = 11
+
 10110 - 1001 = 1101
+
 10001 - 1110 = 11
 
 
